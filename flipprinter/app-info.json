@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "buildDate": "2026-05-02",
+  "fileName": "FlipPrinter-1.0-20260502.1936.dmg",
+  "fileSizeBytes": 984535,
+  "fileSizeFormatted": "~1 MB",
+  "downloadUrl": "https://alight-downloads.oss-cn-hangzhou.aliyuncs.com/releases/FlipPrinter-1.0-20260502.1936.dmg",
+  "githubDownloadUrl": "",
+  "notarize": true,
+  "environment": "production",
+  "sha": "local-build",
+  "updatedAt": "2026-05-02T19:36:00Z"
+}
